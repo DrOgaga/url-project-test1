@@ -157,7 +157,7 @@ body {
   margin-left: 20px;
   max-height: 40vh;
   width: 90%;
-  scrollbar-width: none;
+  scrollbar-width: thin;
 
  }
 
